@@ -1,0 +1,5 @@
+192x192 iconos
+2208x2208splash
+
+Proxima clase:
+Cinco Aplicacones con Cinco Login Distintos, con Cinco Iconos Distintos, Cinco Splash Distintos, Todos con firebase.
