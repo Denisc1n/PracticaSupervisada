@@ -98,10 +98,9 @@
     <br>
     <br>
     <br>
-    <div>
+    <div class="combobox">
         <ion-select placeholder="Seleccione" interface="action-sheet" color="primary">
-          <ion-select-option value="f">Female</ion-select-option>
-          <ion-select-option value="m">Male</ion-select-option>
+            <ion-select-option *ngFor="let user of array">{{user.name}}</ion-select-option>
         </ion-select>
     </div>
 
